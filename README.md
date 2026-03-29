@@ -251,8 +251,8 @@ Built with ❤️ for Rural India
 ## 📞 Contact
 
 For questions or feedback, please reach out:
-- Email: [Your Email]
-- GitHub: [Your GitHub]
+- Email: anujrwt08@gmail.com
+- GitHub: anujrwt08
 
 ---
 
