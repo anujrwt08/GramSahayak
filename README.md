@@ -252,7 +252,7 @@ Built with ❤️ for Rural India
 
 For questions or feedback, please reach out:
 - Email: anujrwt08@gmail.com
-- GitHub: anujrwt08
+- GitHub: https://github.com/anujrwt08
 
 ---
 
